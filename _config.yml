@@ -9,36 +9,37 @@ markdown: kramdown
 
 # The title and tagline is showed on homepage
 #
-title :  Simpleyyt 
-tagline: Yitao's Blog
+title :  Some thing here
+tagline: Daniel's Blog
 
 # Information about author
 #
 author :
-  name : Yitao Yao
+  name : Daniel C
   
 # Information for contacts showed at on the footer
 #
 contact :
-  e-mail : mailto:simpleyyt@gmail.com
-  Github : https://github.com/Simpleyyt
-  WeiBo : http://www.weibo.com/u/1836017133
-  Google+ : https://plus.google.com/103860633659538888207?rel=author
+  e-mail : mailto:thatways.c@gmail.com
+#  Github : https://github.com/Simpleyyt
+#  WeiBo : http://www.weibo.com/u/1836017133
+#  Google+ : https://plus.google.com/103860633659538888207?rel=author
   
 # Links showed on the footer
 #
 links :
-  Yitao's Blog : http://simpleyyt.github.io/
+  Daniel's Blog : http://thatways.github.io/
 
 # The search engine. Only support google custom search engine.
 #
-search : 
-  provider : gcse
-  
-  # Your Google custom search engine ID
-  #
-  gcse :
-    cx : 004255214185073801838:_icnlls8kds
+
+#search : 
+#  provider : gcse
+#  
+#  # Your Google custom search engine ID
+#  #
+#  gcse :
+#    cx : 004255214185073801838:_icnlls8kds
   
 # The way of excerpt. There are two options: "teaser" and "truncate_words".
 # "teaser" option: look for the More tag (<!--more-->) and create a teaser from the content that precedes the More tag.
@@ -173,4 +174,4 @@ JB :
   # Setting any helper's provider to 'custom' will bypass the helper code
   # and include your custom code. Your custom file must be defined at:
   #   ./_includes/custom/[HELPER]
-  # where [HELPER] is the name of the helper you are overriding.
+  # where [HELPER] is the name of the helper you are overriding 
