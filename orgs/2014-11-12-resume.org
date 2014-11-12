@@ -1,0 +1,36 @@
+#+STARTUP: indent
+#+STARTUP: hidestars
+#+STARTUP: odd
+
+#+OPTIONS: ':nil *:t -:t ::t <:t H:3 \n:t ^:t arch:headline
+#+OPTIONS: author:t c:nil creator:comment d:(not "LOGBOOK") date:t
+#+OPTIONS: e:t email:nil f:t inline:t num:nil p:nil pri:nil prop:nil
+#+OPTIONS: stat:t tags:t tasks:t tex:t timestamp:t toc:t todo:t |:t
+#+TITLE: 我的简历
+#+DATE: <2014-11-11 周二>
+#+AUTHOR: 陈作鹏
+#+EMAIL: thatways.c@gmail.com
+#+DESCRIPTION:
+#+KEYWORDS:
+#+LANGUAGE: en
+#+SELECT_TAGS: export
+#+EXCLUDE_TAGS: noexport
+#+CREATOR: 
+
+#+OPTIONS: html-link-use-abs-url:nil html-postamble:nil
+#+OPTIONS: html-preamble:t html-scripts:t html-style:nil
+#+OPTIONS: html5-fancy:nil tex:t
+#+HTML_DOCTYPE: xhtml-strict
+#+HTML_CONTAINER: div
+#+HTML_LINK_HOME:
+#+HTML_LINK_UP:
+#+HTML_HEAD: <link rel="stylesheet" type="text/css" href="/org/style.css" />
+#+HTML_HEAD: <link rel="stylesheet" type="text/css" href="style.css" />
+#+HTML_HEAD_EXTRA:
+#+HTML_MATHJAX:
+#+INFOJS_OPT:
+#+CREATOR: <a href="http://www.gnu.org/software/emacs/">Emacs</a> 24.3.1 (<a href="http://orgmode.org">Org</a> mode 8.2.6)
+#+LATEX_HEADER:
+
+* 我的简历
+
